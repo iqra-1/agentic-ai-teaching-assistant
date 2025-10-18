@@ -33,4 +33,4 @@ Built for education, reliability, and clarity.
 
 Here's the agent in action:
 
-![Agentic AI Teaching Assistant Demo](https://raw.githubusercontent.com/your-username/your-repo/main/demo.png)
+![Agentic AI Teaching Assistant Demo](https://github.com/iqra-1/agentic-ai-teaching-assistant/blob/main/agentic_ai_shot.png)
