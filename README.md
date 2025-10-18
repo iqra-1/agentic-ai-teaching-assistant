@@ -27,3 +27,10 @@ This project demonstrates:
 - **Human-in-the-loop**: Designed for review before sending  
 
 Built for education, reliability, and clarity.
+
+---
+## 🖥️ Demo
+
+Here's the agent in action:
+
+![Agentic AI Teaching Assistant Demo](https://raw.githubusercontent.com/your-username/your-repo/main/demo.png)
